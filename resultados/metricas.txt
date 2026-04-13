@@ -1,0 +1,9 @@
+=== CLUSTERING: Tiempo de Viaje ===
+K optimo:         5
+Silhouette Score: 0.5510
+Inercia:          63.89
+
+=== CLUSTERING: Ocupacion ===
+K optimo:         5
+Silhouette Score: 0.6127
+Inercia:          73.96

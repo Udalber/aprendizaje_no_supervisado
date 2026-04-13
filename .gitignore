@@ -23,9 +23,7 @@ wheels/
 .coverage
 htmlcov/
 
-*.csv
-resultados/*.png
-resultados/*.txt
+datos.csv
 
 .DS_Store
 *.swp
